@@ -29,13 +29,12 @@
     "typescript": "^4.0.3"
   },
   "dependencies": {
-    "@bloks/utils": "^22.0.53",
     "@ledgerhq/hw-transport-u2f": "^5.6.0",
     "@ledgerhq/hw-transport-web-ble": "^5.6.0",
     "@ledgerhq/hw-transport-webauthn": "^5.6.0",
     "@ledgerhq/hw-transport-webhid": "^5.6.0",
     "@ledgerhq/hw-transport-webusb": "^5.6.0",
-    "@proton/js": "^22.0.57",
+    "@proton/js": "latest",
     "asn1-ber": "^1.0.9",
     "bip32-path": "^0.4.2"
   },
