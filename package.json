@@ -1,6 +1,6 @@
 {
   "name": "@bloks/ledger",
-  "version": "22.0.57",
+  "version": "22.0.58",
   "module": "dist/ledger.esm.js",
   "author": "jafri",
   "license": "MIT",
